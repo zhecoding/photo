@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Gallery - Zhe Wang
+email: "zhewang@zhewang.org"
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://zhecoding.github.io"
+baseurl: "/photo"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://zhecoding.github.io/photo/gallery/"
+  - ABOUT: "https://zhecoding.github.io/photo/about/"
 
 # All translation keys
 translations:
@@ -44,7 +43,7 @@ translations:
 
 # Server
 destination:      	 ./_site
-port:             	 4000
+port:             	 10700
 
 
 # Build settings
